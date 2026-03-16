@@ -1,17 +1,19 @@
 aid: joggr
 name: Joggr
 description: >-
-  Devtools have come a long way in the past decade, but why are dev docs stuck
-  in the past?Were here to change that by building a documentation platform
-  purpose-built for software teams. 
+  Joggr is a documentation platform purpose-built for software teams. It
+  bridges the gap between traditional dev docs and modern development workflows,
+  helping engineering teams create and maintain technical documentation.
 type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
+  - Documentation
+  - Developer Tools
+  - Technical Writing
 created: '2025-03-01'
-modified: '2025-03-01'
+modified: '2026-03-16'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/joggr/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -19,15 +21,20 @@ apis:
   - aid: joggr:joggr
     name: Joggr
     description: >-
-      Devtools have come a long way in the past decade, but why are dev docs
-      stuck in the past?Were here to change that by building a documentation
-      platform purpose-built for software teams. 
-    humanURL: ' https://www.joggr.io/about'
+      Joggr is a documentation platform purpose-built for software teams,
+      helping engineering teams create and maintain technical documentation.
+    humanURL: https://www.joggr.io/
     tags:
-      - API
+      - Documentation
+      - Developer Tools
     properties:
       - type: Documentation
-        url: ' https://www.joggr.io/about'
+        url: https://www.joggr.io/about
+      - type: Website
+        url: https://www.joggr.io/
+common:
+  - type: Website
+    url: https://www.joggr.io/
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
