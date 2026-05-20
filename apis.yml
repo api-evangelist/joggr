@@ -45,6 +45,8 @@ apis:
       - type: GitHub
         url: https://github.com/joggrdocs
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/joggr
   - type: Website
     url: https://www.joggr.ai/
   - type: Documentation
