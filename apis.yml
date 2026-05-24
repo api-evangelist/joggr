@@ -51,6 +51,8 @@ common:
     url: https://www.joggr.ai/
   - type: Documentation
     url: https://docs.joggr.ai/
+  - type: LLMsTxt
+    url: https://docs.joggr.ai/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
